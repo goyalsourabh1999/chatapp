@@ -1,5 +1,5 @@
 # chatapp
-first have to create a server and then run it
+first have to create a server and then run the server
 ![Screenshot (26)](https://user-images.githubusercontent.com/46593800/68313197-34631280-00da-11ea-9465-d46ac7961c9f.png)
 
 joining of first client name client1
